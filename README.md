@@ -1,5 +1,5 @@
 # CAVE-SC
-The source codes for learning representations of venues and categories from check-in sequences based on CAVE-SC
+The source codes for learning representations of venues and categories from check-in sequences based on CAVE-SC.
 The input data format is [venueID_1#category_1, ..., venueID_n#category_n]. Each line represents the check-in sequence of a user, sorted by check-in timestamp.
 
 For example:
